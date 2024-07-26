@@ -1,10 +1,6 @@
 public class C1{
 
-
-
     public static void main(String[] args) {
-
-
         int num1=0 ;
         Integer num2=null;
         boolean esBolean=true;
@@ -15,8 +11,5 @@ public class C1{
         Double doublePresicion2=19.22;
         long masPresicion=28999;
         Long masPresicion2=28999L;
-
-
-
     }
 }
