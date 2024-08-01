@@ -7,12 +7,13 @@ public class main {
 
 
     public static void main(String[] args) {
-        /*
+
         Carro carro1 = new Carro("Rojo");
+        System.out.println(new Carro());
         System.out.println( carro1.getColor());
         carro1.setColor("Verde");
         System.out.println( carro1.getColor());
-        */
+
 
         //ENTRADA Y SALIDA DE DATOS
 
