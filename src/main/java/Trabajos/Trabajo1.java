@@ -4,8 +4,6 @@ package Trabajos;
 // y requiero que se calcule el promedio de los estudiantes.
 //Deben usar Clases y Objetos, y Scaner para llenar los datos de los estudiantes.
 
-//a
-
 //1) Crear mi clase estudiantes
 //2) definir metodos y funciones(notas)
 //3)crear main
